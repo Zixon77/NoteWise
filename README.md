@@ -1,2 +1,2 @@
 # NoteWise
-Simple note App Made in React Native.
+Simple note App Made in React Native (Second official project).
